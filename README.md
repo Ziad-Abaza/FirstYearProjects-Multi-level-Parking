@@ -91,17 +91,27 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## 🤝 Contributions
+# First-Year-Projects
 
-Contributions and improvements are welcome! Feel free to fork the repository and submit a pull request.
+This repository contains projects completed during the first year of my studies, including a multi-story garage and a robot car with a robotic arm.
+
+## Contributors
+
+- **Ziad Hassan Abaza**  
+  - GitHub: [Ziad Abaza](https://github.com/Ziad-Abaza)  
+  - Email: [zeyad.h.abaza@gmail.com](mailto:zeyad.h.abaza@gmail.com)
+
+- **Omar Algamel**  
+  - GitHub: [Omar Algamel](https://github.com/omar-algamel)  
+  - Email: [omar.algamel@example.com](mailto:omar.algamel@example.com)
 
 ---
 
 ## ✉️ Contact
 
 For questions or feedback, reach out:
-- **Email**: omar.algamel@example.com
-- **GitHub**: [Omar Algamel](https://github.com/omar-algamel)
+- **Email**: [zeyad.h.abaza@gmail.com](mailto:zeyad.h.abaza@gmail.com)
+- **GitHub**: [Ziad Abaza](https://github.com/Ziad-Abaza)
 
 ---
 
